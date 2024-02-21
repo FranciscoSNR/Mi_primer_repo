@@ -9,4 +9,6 @@ que le meta más dice la doctora. pues le hago caso
 
 ya le puse aun más texto, a este pasó terminare escribiendo un diario
 
-primer cambio para comit
+primer cambio para commit
+
+segundo cambio para commit
