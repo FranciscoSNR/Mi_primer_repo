@@ -8,10 +8,4 @@ ups
 que le meta más dice la doctora. pues le hago caso
 
 ya le puse aun más texto, a este pasó terminare escribiendo un diario
-<<<<<<< HEAD
 
-primer cambio para commit
-
-segundo cambio para commit
-=======
->>>>>>> parent of 41a957a (quiero volver a esta)
