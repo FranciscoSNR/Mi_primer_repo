@@ -1,9 +1,8 @@
 
 hola :D
 este es un archivo de prueba para enviarlo al archivo remoto
- HEAD
-todos modificamos el archivo
 modificación de Francisco
-ed549b231026e80a32cbf7004762bcb56fc38534
+nuevamente lo he modificado xD
+modifique nuevamente el archivo por quincuagésima vez
 Nueva linea agregada por Francisco desde su propia rama
 Nueva linea de Francisco que intento agragar
